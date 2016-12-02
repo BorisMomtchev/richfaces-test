@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>maven webapp</h2>
-ver: 1.01
+ver: 1.02
 </body>
 </html>

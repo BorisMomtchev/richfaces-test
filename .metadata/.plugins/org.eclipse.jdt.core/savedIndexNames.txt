@@ -1,0 +1,2 @@
+INDEX VERSION 1.129+C:\Users\Borislav\workspace-richfaces-test\.metadata\.plugins\org.eclipse.jdt.core
+3134190884.index
